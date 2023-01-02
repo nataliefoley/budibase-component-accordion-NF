@@ -1,8 +1,8 @@
 {
   "name": "accordion",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A collapsible container Budibase component",
-  "author": "andz-bb",
+  "author": "nataliefoley",
   "license": "MIT",
   "svelte": "index.js",
   "module": "dist/plugin.min.js",
